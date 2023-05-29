@@ -1,5 +1,7 @@
 # Live Demo:
 
+https://github.com/elizabet-bagdasaryan/contacts/assets/78619349/2a1830d6-78e7-4e0e-824a-58d34c01b540
+
 # Steps to run contacts-api
 
 - `cd contacts-api`
